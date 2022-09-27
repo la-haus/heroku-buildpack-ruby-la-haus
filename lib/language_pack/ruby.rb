@@ -100,7 +100,6 @@ WARNING
       post_bundler
       create_database_yml
       install_binaries
-      run_i18n_js_export_rake_task
       run_assets_precompile_rake_task
     end
     config_detect
